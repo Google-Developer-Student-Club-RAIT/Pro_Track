@@ -16,11 +16,11 @@ In order to host your own project, submit your project plan by following google 
 
 - Dedicated discord channel
 
-
 ### Registration for project submission
 Submit your project plan by filling this form: https://forms.gle/ZnFCbZ1aQ45jQoq38
 
-
+## Join our Discord server 
+https://discord.com/invite/ArRt358aHt
 
 ### Contact
 
